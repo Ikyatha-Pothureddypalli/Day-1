@@ -1,1 +1,1 @@
-# Day-1-1st-task
+# Day-1
